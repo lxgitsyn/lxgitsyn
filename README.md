@@ -31,6 +31,7 @@
 - 🇩🇪 tjayy, germany based Dev.
 - 🏢 I work with CheaterStats and my very good friend 0jayy07.
 - ⚡ I love to do discord application development.
+- ⌨️ I do Fullstack development, but prefer backend stuff. 
 
 ## </> Tech Stack
 
